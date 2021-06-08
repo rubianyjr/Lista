@@ -1,0 +1,812 @@
+# Lista
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="KIDS", (OFFLINE) Telegram: https://telegram.me/listasremotasym3u
+http://tecnotv.club/j2107/principal.php?c=babytv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="INFANTIL", (OFFLINE) TV Galicia Xabarín
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="INFANTIL", (OFFLINE) Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL", (OFFLINE) Tooncast
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="INFANTIL", (OFFLINE) El Chavo
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKHUnHT.png" group-title="INFANTIL", (OFFLINE) Monstruos de Verdad
+https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w780109170.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="INFANTIL", (OFFLINE) Dreiko TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8rJZuk0.png" group-title="INFANTIL", (OFFLINE) Mi TV
+http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7uBm8j5.png" group-title="INFANTIL", (OFFLINE) Retro TV Palmares
+http://tvretropalmares.com:8090/hls/envivo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BADfaU8.png" group-title="INFANTIL", (OFFLINE) Ipe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="INFANTIL", (OFFLINE) Educa  TV
+https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="INFANTIL", (OFFLINE) Simpson
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", (OFFLINE) Wow TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", (OFFLINE) BABYTV
+http://tecnotv.club/j2107/principal.php?c=babytv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", (OFFLINE) BABY FIRST
+http://tecnotv.club/j2107/principal.php?c=babyfirts&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", (OFFLINE) BITME
+http://tecnotv.club/j2107/principal.php?c=bitme&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", (OFFLINE) BOOMERANG
+http://tecnotv.club/j2107/principal.php?c=boomerang&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", (OFFLINE) CARTOON NETWORK
+http://tecnotv.club/j2107/principal.php?c=cartoon&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", (OFFLINE) DISNEY CHANNEL
+http://tecnotv.club/j2107/principal.php?c=disneych&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", (OFFLINE) DISNEY JR
+http://tecnotv.club/j2107/principal.php?c=disneyjr&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", (OFFLINE) DISNEY XD
+http://tecnotv.club/j2107/principal.php?c=disneyxd&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", (OFFLINE) DISCOVERY KIDS
+http://tecnotv.club/j2107/principal.php?c=dkids&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", (OFFLINE) NAT GEO KIDS
+http://tecnotv.club/j2107/principal.php?c=natgeokids&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", (OFFLINE) NICK
+http://tecnotv.club/j2107/principal.php?c=nick&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", (OFFLINE) NICK JR
+http://tecnotv.club/j2107/principal.php?c=nickjr&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", (OFFLINE) TEEN NICK
+http://tecnotv.club/j2107/principal.php?c=teennick&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", (OFFLINE) TOONCAST
+http://tecnotv.club/j2107/principal.php?c=tooncast&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", (OFFLINE) DISCOVERY ID
+http://tecnotv.club/j2107/principal.php?c=id&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", (OFFLINE) ANIMAL PLANET
+http://tecnotv.club/j2107/principal.php?c=animalp&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", (OFFLINE) DISCOVERY CHANNEL
+http://tecnotv.club/j2107/principal.php?c=discoverych&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", (OFFLINE) DISCOVERY SCIENCE
+http://tecnotv.club/j2107/principal.php?c=dciencia&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", (OFFLINE) DISCOVERY CIVILIZATION
+http://tecnotv.club/j2107/principal.php?c=dcivil&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", (OFFLINE) DISCOVERY THEATER
+http://tecnotv.club/j2107/principal.php?c=dtheater&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", (OFFLINE) DISCOVERY TURBO
+http://tecnotv.club/j2107/principal.php?c=dturbo&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", (OFFLINE) DISCOVERY WORLD
+http://tecnotv.club/j2107/principal.php?c=dworld&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", (OFFLINE) FOOD NETWORK
+http://tecnotv.club/j2107/principal.php?c=food&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", (OFFLINE) GOURMET
+http://tecnotv.club/j2107/principal.php?c=gourmet&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", (OFFLINE) HISTORY
+http://tecnotv.club/j2107/principal.php?c=history&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", (OFFLINE) H2
+http://tecnotv.club/j2107/principal.php?c=h2&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", (OFFLINE) H&H
+http://tecnotv.club/j2107/principal.php?c=hh&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", (OFFLINE) HOLATV
+http://tecnotv.club/j2107/principal.php?c=holatv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", (OFFLINE) MAS CHIC
+http://tecnotv.club/j2107/principal.php?c=maschic&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", (OFFLINE) NAT GEO
+http://tecnotv.club/j2107/principal.php?c=natgeo&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", (OFFLINE) NAT GEO WILD
+http://tecnotv.club/j2107/principal.php?c=natgeowild&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", (OFFLINE) COMEDY CENTRAL
+http://tecnotv.club/j2107/principal.php?c=comedy&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", (OFFLINE) TELEMUNDO INTERNACIONAL
+http://tecnotv.club/j2107/principal.php?c=telemundoint&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", (OFFLINE) AZCORAZON
+http://tecnotv.club/j2107/principal.php?c=azcorazon&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", (OFFLINE) LIFETIME
+http://tecnotv.club/j2107/principal.php?c=lifetime&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", (OFFLINE) PASIONES
+http://tecnotv.club/j2107/principal.php?c=pasiones&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", (OFFLINE) E!
+http://tecnotv.club/j2107/principal.php?c=e&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", (OFFLINE) TLC
+http://tecnotv.club/j2107/principal.php?c=tlc&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", (OFFLINE) TLNOVELAS
+http://tecnotv.club/j2107/principal.php?c=tlnovelas&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", (OFFLINE) TRUTV
+http://tecnotv.club/j2107/principal.php?c=trutv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", (OFFLINE) AZ MUNDO
+http://tecnotv.club/j2107/principal.php?c=azmundo&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", (OFFLINE) DISTRITO COMEDIA
+http://tecnotv.club/j2107/principal.php?c=distrito&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", (OFFLINE) IMAGEN TV
+http://tecnotv.club/j2107/principal.php?c=imagentv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", (OFFLINE) UNICABLE
+http://tecnotv.club/j2107/principal.php?c=unicable&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", (OFFLINE) CNN
+http://tecnotv.club/j2107/principal.php?c=cnnes&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", (OFFLINE) TELEMUNDO
+http://tecnotv.club/j2107/principal.php?c=telemundo&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", (OFFLINE) UNIMAS
+http://tecnotv.club/j2107/principal.php?c=unimas&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", (OFFLINE) UNIVISION
+http://tecnotv.club/j2107/principal.php?c=univ-1&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) A&E
+http://tecnotv.club/j2107/principal.php?c=ae&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) AXN
+http://tecnotv.club/j2107/principal.php?c=axn&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) FX
+http://tecnotv.club/j2107/principal.php?c=fx&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) SONY
+http://tecnotv.club/j2107/principal.php?c=sony&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) TBS
+http://tecnotv.club/j2107/principal.php?c=tbs&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) TNT SERIES
+http://tecnotv.club/j2107/principal.php?c=tntseries&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) UNIVERSAL
+http://tecnotv.club/j2107/principal.php?c=universal&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) WARNER
+http://tecnotv.club/j2107/principal.php?c=warner&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) AZ CINEMA
+http://tecnotv.club/j2107/principal.php?c=azcinema&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) AMC
+http://tecnotv.club/j2107/principal.php?c=amc&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) CINECANAL
+http://tecnotv.club/j2107/principal.php?c=cinecanal&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) CINEMAX
+http://tecnotv.club/j2107/principal.php?c=cinemax&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) CINE LATINO
+http://tecnotv.club/j2107/principal.php?c=cinelatino&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) CINE LATINO HD
+http://tecnotv.club/j2107/principal.php?c=cinelatinohd&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) CLARO CINEMA
+http://tecnotv.club/j2107/principal.php?c=clarocinema&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) DE PELICULA
+http://tecnotv.club/j2107/principal.php?c=dpelicula&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) DE PELICULA PLUS
+http://tecnotv.club/j2107/principal.php?c=dpeliculaplus&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) DHE
+http://tecnotv.club/j2107/principal.php?c=dhe&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) EUROPA
+http://tecnotv.club/j2107/principal.php?c=europa&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) EURO CHANNEL
+http://tecnotv.club/j2107/principal.php?c=euroch&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) FILMS & ARTS
+http://tecnotv.club/j2107/principal.php?c=filmarts&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) FXM
+http://tecnotv.club/j2107/principal.php?c=fxm&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) GOLDEN
+http://tecnotv.club/j2107/principal.php?c=golden&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) GOLDEN EDGE
+http://tecnotv.club/j2107/principal.php?c=edge&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) GOLDEN PLUS
+http://tecnotv.club/j2107/principal.php?c=goldenplus&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) GOLDEN PREMIER
+http://tecnotv.club/j2107/principal.php?c=goldenp&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) HBO
+http://tecnotv.club/j2107/principal.php?c=hboes&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) HBO 2
+http://tecnotv.club/j2107/principal.php?c=hbo2&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) HBO PLUS
+http://tecnotv.club/j2107/principal.php?c=hboplus&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) HBO FAMILY
+http://tecnotv.club/j2107/principal.php?c=hbofamily&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) HBO MUNDI
+http://tecnotv.club/j2107/principal.php?c=hbomundi&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) HBO POP
+http://tecnotv.club/j2107/principal.php?c=hbopop&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) HBO SIGNATURE
+http://tecnotv.club/j2107/principal.php?c=hbosignature&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) HBO XTREME
+http://tecnotv.club/j2107/principal.php?c=hboxtreme&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) I SAT
+http://tecnotv.club/j2107/principal.php?c=isat&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) MORBIDO
+http://tecnotv.club/j2107/principal.php?c=morbido&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) MULTI CINEMA
+http://tecnotv.club/j2107/principal.php?c=mc&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) MULTI PREMIER
+http://tecnotv.club/j2107/principal.php?c=mp&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) PARAMOUNT CHANNEL
+http://tecnotv.club/j2107/principal.php?c=paramount&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) SPACE
+http://tecnotv.club/j2107/principal.php?c=space&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) STAR CHANNEL
+http://tecnotv.club/j2107/principal.php?c=starch&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) STAR ACTION
+http://tecnotv.club/j2107/principal.php?c=staraction&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) STAR CINEMA
+http://tecnotv.club/j2107/principal.php?c=starcinema&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) STAR CLASSICS
+http://tecnotv.club/j2107/principal.php?c=starclassics&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) STAR COMEDY
+http://tecnotv.club/j2107/principal.php?c=starcomedy&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) STAR FUN
+http://tecnotv.club/j2107/principal.php?c=starfun&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) STAR HITS
+http://tecnotv.club/j2107/principal.php?c=starhits&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) STAR LIFE
+http://tecnotv.club/j2107/principal.php?c=starlife&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) STAR SERIES
+http://tecnotv.club/j2107/principal.php?c=starseries&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) STUDIO UNIVERSAL
+http://tecnotv.club/j2107/principal.php?c=studiou&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) SYFY
+http://tecnotv.club/j2107/principal.php?c=syfy-1&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) TCM
+http://tecnotv.club/j2107/principal.php?c=tcm&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", (OFFLINE) TNT
+http://tecnotv.club/j2107/principal.php?c=tnt&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", (OFFLINE) RAKUTEN TV SPOTLIGHT
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", (OFFLINE) RAKUTEN TV SPOTLIGHT 2
+https://rakuten-spotlight-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", (OFFLINE) RAKUTEN TV SHOWS
+https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", (OFFLINE) RAKUTEN TV SHOWS 2
+https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", (OFFLINE) RAKUTEN TV COMEDY MOVIES
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", (OFFLINE) RAKUTEN TV COMEDY MOVIES 2
+https://rakuten-comedymovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", (OFFLINE) RAKUTEN TV ACTION MOVIES
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", (OFFLINE) RAKUTEN TV ACTION MOVIES 2
+https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", (OFFLINE) RAKUTEN TV FAMILY
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", (OFFLINE) RAKUTEN TV TOP FREE
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) EIN SPORTS
+http://tecnotv.club/j2107/smartsport.php?c=winsports&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) UNIVERSO
+http://tecnotv.club/j2107/smartsport.php?c=universo&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) RCN
+http://tecnotv.club/j2107/smartsport.php?c=rcn&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) LA LIGA
+http://tecnotv.club/j2107/smartsport.php?c=laliga&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) NBC
+http://tecnotv.club/j2107/smartsport.php?c=nbcsn&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) GOLTV
+http://tecnotv.club/j2107/smartsport.php?c=goltv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) AFIZZIONADOS
+http://tecnotv.club/j2107/smartsport.php?c=afizzionados&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) BEIN SPORTS N
+http://tecnotv.club/j2107/smartsport.php?c=beines&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) DIRECTV SPORTS
+http://tecnotv.club/j2107/smartsport.php?c=directv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) DIRECTV SPORTS +
+http://tecnotv.club/j2107/smartsport.php?c=directvplus&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) FOX SPORTS PREMIUM
+http://tecnotv.club/j2107/smartsport.php?c=foxsportsp&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) ESPN
+http://tecnotv.club/j2107/smartsport.php?c=espn1-mx&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) ESPN 2
+http://tecnotv.club/j2107/smartsport.php?c=espn2-mx&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) ESPN 3
+http://tecnotv.club/j2107/smartsport.php?c=espn3-mx&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) ESPN EXTRA
+http://tecnotv.club/j2107/smartsport.php?c=espnextra-mx&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) ESPN DEPORTES
+http://tecnotv.club/j2107/smartsport.php?c=espndep&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) FOX SPORTS
+http://tecnotv.club/j2107/smartsport.php?c=foxsports1-mx&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) FOX SPORTS 2
+http://tecnotv.club/j2107/smartsport.php?c=foxsports2-mx&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) FOX SPORTS 3
+http://tecnotv.club/j2107/smartsport.php?c=foxsports3-mx&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) TUDN MX
+http://tecnotv.club/j2107/smartsport.php?c=tudn-mx&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) TUDN US
+http://tecnotv.club/j2107/smartsport.php?c=tudn-us&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (OFFLINE) TVC DEPORTES
+http://tecnotv.club/j2107/smartsport.php?c=tvcdep-mx&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", (OFFLINE) CONCERT
+http://tecnotv.club/j2107/smartvmusic.php?c=concert&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", (OFFLINE) BANDAMAX
+http://tecnotv.club/j2107/smartvmusic.php?c=bandamax&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", (OFFLINE) EUFORIA
+http://tecnotv.club/j2107/smartvmusic.php?c=euforia-1&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", (OFFLINE) EXATV
+http://tecnotv.club/j2107/smartvmusic.php?c=exatv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", (OFFLINE) FOX MIX
+http://tecnotv.club/j2107/smartvmusic.php?c=foxmix-1&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", (OFFLINE) HTV
+http://tecnotv.club/j2107/smartvmusic.php?c=htv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", (OFFLINE) LA MEJOR TV
+http://tecnotv.club/j2107/smartvmusic.php?c=lamejor&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", (OFFLINE) MTV
+http://tecnotv.club/j2107/smartvmusic.php?c=mtv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", (OFFLINE) MTV TR3S
+http://tecnotv.club/j2107/smartvmusic.php?c=mtvtr3s&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", (OFFLINE) MTV HITS
+http://tecnotv.club/j2107/smartvmusic.php?c=mtvhits&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", (OFFLINE) MTV LIVE
+http://tecnotv.club/j2107/smartvmusic.php?c=mtvlive&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", (OFFLINE) MTV 80S
+http://tecnotv.club/j2107/smartvmusic.php?c=mtv80s&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", (OFFLINE) NICK MUSIC
+http://tecnotv.club/j2107/smartvmusic.php?c=nickmusic&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", (OFFLINE) TELEHIT
+http://tecnotv.club/j2107/smartvmusic.php?c=telehit&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", (OFFLINE) TELEHIT PLUS
+http://tecnotv.club/j2107/smartvmusic.php?c=telehitplus&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", (OFFLINE) TELERITMO
+http://tecnotv.club/j2107/smartvmusic.php?c=teleritmo&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", (OFFLINE) TMTV
+http://tecnotv.club/j2107/smartvmusic.php?c=tmtv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", (OFFLINE) VH1
+http://tecnotv.club/j2107/smartvmusic.php?c=vh1&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", (OFFLINE) VIDEOROLA
+http://tecnotv.club/j2107/smartvmusic.php?c=videorola&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO AIRE", (OFFLINE) A+
+http://tecnotv.club/j2107/principal.php?c=amas&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO AIRE", (OFFLINE) AZTECA UNO
+http://tecnotv.club/j2107/principal.php?c=aztecauno&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO AIRE", (OFFLINE) EL DOS
+http://tecnotv.club/j2107/principal.php?c=eldos&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO AIRE", (OFFLINE) CANAL 5
+http://tecnotv.club/j2107/principal.php?c=elcinco&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO AIRE", (OFFLINE) AZTECA 7
+http://tecnotv.club/j2107/principal.php?c=azteca7&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO AIRE", (OFFLINE) NU9VE
+http://tecnotv.club/j2107/principal.php?c=nueve&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO AIRE", (OFFLINE) MEXIQUENSE
+http://tecnotv.club/j2107/principal.php?c=mexiquense&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO AIRE", (OFFLINE) MULTIMEDIOS
+http://tecnotv.club/j2107/principal.php?c=multimedios&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO AIRE", (OFFLINE) MVS TV
+http://tecnotv.club/j2107/principal.php?c=mvstv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO AIRE", (OFFLINE) TV CUATRO
+http://tecnotv.club/j2107/principal.php?c=tvcuatro&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO AIRE", (OFFLINE) ONCE TV
+http://tecnotv.club/j2107/principal.php?c=oncetv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO AIRE", (OFFLINE) ADN40
+http://tecnotv.club/j2107/principal.php?c=adn40&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO AIRE", (OFFLINE) FORO TV
+http://tecnotv.club/j2107/principal.php?c=forotv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO AIRE", (OFFLINE) MILENIO
+http://tecnotv.club/j2107/principal.php?c=milenio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO AIRE", (OFFLINE) GALAVISION
+http://tecnotv.club/j2107/principal.php?c=galavision&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO AIRE", (OFFLINE) CANAL CLARO
+http://tecnotv.club/j2107/principal.php?c=claro&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/assets/images/default/channel.id-featured-default.jpg" group-title="PLUTO TV", (OFFLINE) Pluto Tv
+http://tecnotv.club/j2107/plutotv.php?c=5e793a7cfbdf780007f7eb75
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Cine Suspenso
+http://tecnotv.club/j2107/plutotv.php?c=5ddc4e8bcbb9010009b4e84f
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Cine Accion
+http://tecnotv.club/j2107/plutotv.php?c=5dcb62e63d4d8f0009f36881
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Estrellas en Accion
+http://tecnotv.club/j2107/plutotv.php?c=5e972a21ad709d00074195ba
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Cine Comedia
+http://tecnotv.club/j2107/plutotv.php?c=5dcdde78f080d900098550e4
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Cine Terror
+http://tecnotv.club/j2107/plutotv.php?c=5dcddf1ed95e740009fef7ab
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Viajes
+http://tecnotv.club/j2107/plutotv.php?c=5dcddfbdb7cf0e0009ae09ea
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Cine Drama
+http://tecnotv.club/j2107/plutotv.php?c=5dcddfcb229eff00091b6bdf
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Cocina
+http://tecnotv.club/j2107/plutotv.php?c=5dcde0657444a40009cd2422
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Deportes
+http://tecnotv.club/j2107/plutotv.php?c=5dcde07af1c85b0009b18651
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Novelas
+http://tecnotv.club/j2107/plutotv.php?c=5dcde0cc2efd2700090b7ff4
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Series
+http://tecnotv.club/j2107/plutotv.php?c=5dcde1317578340009b751d0
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Anime
+http://tecnotv.club/j2107/plutotv.php?c=5dcde17bf6591d0009839e02
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Reality
+http://tecnotv.club/j2107/plutotv.php?c=5dcde197f6591d0009839e04
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Investiga
+http://tecnotv.club/j2107/plutotv.php?c=5dcde27ffae9520009c0c75a
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Junior
+http://tecnotv.club/j2107/plutotv.php?c=5dcde2ac4bc6c500094ab45b
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Cine Estelar
+http://tecnotv.club/j2107/plutotv.php?c=5dcde437229eff00091b6c30
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Hogar
+http://tecnotv.club/j2107/plutotv.php?c=5dd6ab8056beb000091fc6b6
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Competencias
+http://tecnotv.club/j2107/plutotv.php?c=5dd6d935d000120009bc1132
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Kids
+http://tecnotv.club/j2107/plutotv.php?c=5dd6dae8ce788b0009eaf77b
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Velocidad
+http://tecnotv.club/j2107/plutotv.php?c=5dd6dc7480e3550009133d4a
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Cine Familia
+http://tecnotv.club/j2107/plutotv.php?c=5dd6ddb30a1d8a000908ed4c
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Teen
+http://tecnotv.club/j2107/plutotv.php?c=5dd6de52b9914200091f047a
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Cine Romance
+http://tecnotv.club/j2107/plutotv.php?c=5dd7ea2aeab5230009986735
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Animales
+http://tecnotv.club/j2107/plutotv.php?c=5dd834c66fe2ca0009303b8d
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Series Latinas
+http://tecnotv.club/j2107/plutotv.php?c=5dd837642c6e9300098ad484
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Naturaleza
+http://tecnotv.club/j2107/plutotv.php?c=5dd85eac039bba0009e86d1d
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Nick Clasico
+http://tecnotv.club/j2107/plutotv.php?c=5ddd7c348520b40009c347e2
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Nick Jr Club
+http://tecnotv.club/j2107/plutotv.php?c=5ddd7cb2cbb9010009b4fe32
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de58ef515635d00091f605d/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Degrassi
+http://tecnotv.club/j2107/plutotv.php?c=5de58ef515635d00091f605d
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Series Retro
+http://tecnotv.club/j2107/plutotv.php?c=5de802659167b10009e7deba
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Mtv Classic
+http://tecnotv.club/j2107/plutotv.php?c=5de91b7ea86ee60009d89e75
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Telefe clasico
+http://tecnotv.club/j2107/plutotv.php?c=5de91cf02fc07c0009910465
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Cine
+http://tecnotv.club/j2107/plutotv.php?c=5defde6d6c07b50009cf0757
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) MasterChef
+http://tecnotv.club/j2107/plutotv.php?c=5e3ddbd27091820009f86dd9
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Futbol para Fans
+http://tecnotv.club/j2107/plutotv.php?c=5e3ddd1a3ef73b00091d5779
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Minuto para Ganar
+http://tecnotv.club/j2107/plutotv.php?c=5e46e64dc73db400094b5f0b
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Los archivos del FBI
+http://tecnotv.club/j2107/plutotv.php?c=5e67d41b93312100076f3fca
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) BABAR
+http://tecnotv.club/j2107/plutotv.php?c=5e67e20c93312100076f3ffe
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Anime Accion
+http://tecnotv.club/j2107/plutotv.php?c=5e6a4d875d7ccf0007cc2cf1
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e8f8e7598841d0007bf35b3/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Comedy Central Stand-Up
+http://tecnotv.club/j2107/plutotv.php?c=5e8f8e7598841d0007bf35b3
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Peleas
+http://tecnotv.club/j2107/plutotv.php?c=5e98b0447665f200078caded
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) The New Detectives
+http://tecnotv.club/j2107/plutotv.php?c=5ea71d48af1d0b0007d837f4
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Rugrats Crecidos
+http://tecnotv.club/j2107/plutotv.php?c=5ea7215005d66d0007e8128a
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/featuredImage.jpg" group-title="PLUTO TV", (OFFLINE) Star Trek
+http://tecnotv.club/j2107/plutotv.php?c=5ec5761aabe4690007f6e047
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png" group-title="MUSICA", (OFFLINE) Rewind TV
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA", (OFFLINE) Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA", (OFFLINE) Retro Plus TV Se単al 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OYgpvMljozw/Xxy-3V91rJI/AAAAAAAA3WI/1Tr5TT2vvDw63C_2ZoSu5mmvTvZV4UDFACK8BGAsYHg/s0/2020-07-25.png" group-title="MUSICA", (OFFLINE) Ruidos TV
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-axPzeNdcvq4/X4JBO2dt35I/AAAAAAAA6UM/X-3kz1phNyUa8lUEEnt_0-Nv3OZdOWACwCK8BGAsYHg/s0/2020-10-10.png" group-title="MUSICA", (OFFLINE) Awka
+https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png" group-title="MUSICA", (OFFLINE) Urban TV
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AQn8CYeOAK8/X38KO1HXohI/AAAAAAAA6P8/aEkNrz3M0qwWAeklOdf2svEf0HV7bBjyACK8BGAsYHg/s0/2020-10-08.png" group-title="MUSICA", (OFFLINE) XTV Music
+https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0/2020-10-26.png" group-title="MUSICA", (OFFLINE) Zapping Music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mOrpp3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="MUSICA", (OFFLINE) Mix 24-7
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mOrpp3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="MUSICA", (OFFLINE) Mix 24-7 Baladas
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mOrpp3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="MUSICA", (OFFLINE) Mix 24-7 sun
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mOrpp3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="MUSICA", (OFFLINE) Mix 24-7 Retro
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mOrpp3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="MUSICA", (OFFLINE) Mix 24-7 Top 100
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mOrpp3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="MUSICA", (OFFLINE) Mix 24-7 Tropical
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png" group-title="MUSICA", (OFFLINE) Portal FoxMix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png" group-title="MUSICA", (OFFLINE) Retro Music Television
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3hmTnW9e-Y4/XbDAlKKxKtI/AAAAAAAArnA/OkLJM2f1T0ktieMaceuBzVPOADwGIf1jACK8BGAsYHg/s0/2019-10-23.png" group-title="MUSICA", (OFFLINE) Carolina TV
+http://unlimited1-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-IDCwMaJRdnM/Xb11MVTbE-I/AAAAAAAAr4s/PbNF6ie1AIothtCRKeVvdVC6S5hO6a3xACK8BGAsYHg/s0/2019-11-02.png" group-title="MUSICA", (OFFLINE) Alegria TV
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png" group-title="MUSICA", (OFFLINE) Canal 38
+https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bNr32YilkwI/X7gHapMZxAI/AAAAAAAA7hc/tUFlaalIohMz1NqYEMuP77GfeYrh7HBNgCK8BGAsYHg/s0/2020-11-20.png" group-title="MUSICA", (OFFLINE) Bajo Cero TV
+https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png" group-title="MUSICA", (OFFLINE) Conecta TV
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XR46wyY1FZc/XjomdF00q2I/AAAAAAAAvlY/RR7N6BVs2fQVrkRxUvldT5NN7KN5QGDDACK8BGAsYHg/s0/2020-02-04.png" group-title="MUSICA", (OFFLINE) Corazon Llanero
+https://5fa4275407563.streamlock.net:455/corazonllanerotv/corazonllanerotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TM44QoGsUd4/X8bhuroUcNI/AAAAAAAA73Y/o84W1d_xBXA1yInTgmrlcjwFIGrFPTv9ACK8BGAsYHg/s0/2020-12-01.jpg" group-title="MUSICA", (OFFLINE) Eurolatina TV
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-7rDHdedeWvo/Xmr-CC8Pa2I/AAAAAAAAwyI/X8CvdyCJtdQZutdQi2clULPfWJH0c8S3QCK8BGAsYHg/s0/2020-03-12.png" group-title="MUSICA", (OFFLINE) Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8k2_MMN4_Bc/X0Khp3P6tWI/AAAAAAAA46E/RE_IEG7uAo4WhxuJy71et8N5L1BRugBLgCK8BGAsYHg/s0/2020-08-23.png" group-title="MUSICA", (OFFLINE) m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-RF13xAQ97o0/XxzMzRqfnBI/AAAAAAAA3Zc/xet9CCbU7H8WEPRQGCXEPpiBxM5RUK6EwCK8BGAsYHg/s0/2020-07-25.png" group-title="MUSICA", (OFFLINE) Maxima FM
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png" group-title="MUSICA", (OFFLINE) Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/2020-03-08.png" group-title="MUSICA", (OFFLINE) On Radio Ksun
+https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-k220wrO7Pks/X2tCElFr0xI/AAAAAAAA50E/JjO-VenWP_cETYy8Se1-2pxO3-vMYU5nACK8BGAsYHg/s0/2020-09-23.png" group-title="MUSICA", (OFFLINE) RCKStudio
+https://rckstudio.duckdns.org/hls/live.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-t2WD0yOsfvg/XzxnxYhCPPI/AAAAAAAA4oY/qwvkZXM7rAUzOACe0-fSRAQ7_8n6xb5wgCK8BGAsYHg/s0/2020-08-18.png" group-title="MUSICA", (OFFLINE) The Retro Channel
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WD49JzHZ9cM/Xrsv-mIjUjI/AAAAAAAA0rs/g_Pgm6hQvNIbp8aHuvQ3H7kEkiu3-M4zQCK8BGAsYHg/s0/2020-05-12.png" group-title="MUSICA", (OFFLINE) TuTv Quillota
+https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-F0CYLyk3J_M/XxzNduxMoVI/AAAAAAAA3Zk/3S772u4F4jER7F0bULY-hlG7Nn9bbGa7gCK8BGAsYHg/s0/2020-07-25.png" group-title="MUSICA", (OFFLINE) TV vconline.cl
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-VPBp6Vk47T4/XnzDahiuJCI/AAAAAAAAxMI/BkejtQRObwcVvsIvYbdi3Yf5UOizKSRoQCK8BGAsYHg/s0/2020-03-26.png" group-title="MUSICA", (OFFLINE) DJ Loncho TV
+https://srv2.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mHhSrfB607c/Xofchq4pWAI/AAAAAAAAxd8/1PbG6O1b6ZU6d_G1AImfuPfCMgxVk9eeACK8BGAsYHg/s0/2020-04-03.png" group-title="MUSICA", (OFFLINE) Natural TV
+http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-wwOQH4WvSZI/X5jEE-BBCmI/AAAAAAAA6y4/RgkfOZHscEIH9ceLQR6UPtuXQQUw0FXCACK8BGAsYHg/s0/2020-10-27.png" group-title="MUSICA", (OFFLINE) RadioTV.pro
+https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png" group-title="MUSICA", (OFFLINE) TV Exitos
+http://siglo21.dnsalias.com:8080/mylive/tvexitos/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png" group-title="MUSICA", (OFFLINE) Video Tour Channel
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png" group-title="MUSICA", (OFFLINE) Telemusica
+https://5f2eaf2aa4061.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png" group-title="MUSICA", (OFFLINE) TOP Latino TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg" group-title="MUSICA", (OFFLINE) Karibe単a TV
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="MUSICA", (OFFLINE) Best Cable Music
+https://live.siete.us:1991/bestcablemusic/bestcablemusic/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-U_hD9IeM-Yg/Xzxsc022kjI/AAAAAAAA4pg/RUNXBNPIglE-sOapeC2XUMQAc6LE9_hOQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="MUSICA", (OFFLINE) Hatun TV
+https://live.siete.us:1991/bestcablehatuntv/bestcablehatuntv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png" group-title="MUSICA", (OFFLINE) Mas Cumbia
+https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png" group-title="MUSICA", (OFFLINE) Turbo Mix TV
+http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8?PlaylistM3UCL
